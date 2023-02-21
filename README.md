@@ -1,4 +1,5 @@
-# 2022_java_web_db_study
+# 2022_java_web_db_study (2022.10 ~ 2022.11)
+
 뉴렉처 강의 - servlet, jsp, jdbc, oracle 스터디
 
 ## 실습자료
